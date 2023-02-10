@@ -1,3 +1,6 @@
+import numpy as np 
+  def print_id(student_id):
+        print("student ID = ", student_id)
 
 def print_id(student_id):
         print("student id = ", student_id)
